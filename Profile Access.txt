@@ -1,0 +1,13 @@
+Profile Access
+---------------------------------------------------------------------------------------------------------------------------
+Standart Admin
+login: yarikthe@gmail.com
+pass: 12345678
+description: access to page:blog, page
+Standart Admin
+login: misha@mail.com
+	pass: 12345678 
+	description: access to page:about
+Super Admin  
+	login: 1@1.com  
+	pass: 12345678
